@@ -8,8 +8,5 @@
     "adminPassword": {
       "value": "Yogi@123456789"
     },
-    "dnsLabelPrefix": {
-      "value": "yogiraj"
-    }
   }
 }
