@@ -20,6 +20,6 @@ steps:
     location: 'South India'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/quickstarts/microsoft.compute/vm-simple-linux/azuredeploy.json'
-    csmParametersFileLink: 'https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/quickstarts/microsoft.compute/vm-simple-linux/azuredeploy.parameters.json'
+    csmParametersFileLink: 'https://raw.githubusercontent.com/Yogeeswarvk/azure-quickstart-templates/master/quickstarts/microsoft.compute/vm-simple-linux/azuredeploy.parameters.json'
     deploymentMode: 'Incremental'
     deploymentName: 'linuxvm'
