@@ -81,7 +81,7 @@
     },
     "subnetName": {
       "type": "string",
-      "defaultValue": "Subnet",
+      "defaultValue": "Subnet007",
       "metadata": {
         "description": "Name of the subnet in the virtual network"
       }
