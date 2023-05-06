@@ -164,7 +164,7 @@
       "properties": {
         "ipConfigurations": [
           {
-            "name": "yogiip",
+            "name": "yogeeip",
             "properties": {
               "subnet": {
                 "id": "[resourceId('Microsoft.Network/virtualNetworks/subnets', parameters('virtualNetworkName'), parameters('subnetName'))]"
