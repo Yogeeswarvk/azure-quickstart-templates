@@ -17,7 +17,7 @@ steps:
     subscriptionId: '83e3d384-0c74-460e-a9ef-8a0f3d3d17d7'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'aztest-rg'
-    location: 'Central US'
+    location: 'South Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/Yogeeswarvk/azure-quickstart-templates/master/quickstarts/microsoft.compute/vm-simple-linux/azuredeploy.json'
     csmParametersFileLink: 'https://raw.githubusercontent.com/Yogeeswarvk/azure-quickstart-templates/master/quickstarts/microsoft.compute/vm-simple-linux/azuredeploy.parameters.json'
